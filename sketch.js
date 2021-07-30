@@ -82,7 +82,7 @@ function draw() {
   
   
   textSize(20);
-  fill("black") ;
+  fill("red") ;
   text("Instruction",20,35);
   textSize(15);
   text("0=sleeping",20,55);

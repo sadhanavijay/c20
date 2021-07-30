@@ -82,16 +82,16 @@ function draw() {
   
   
   textSize(20);
-  fill("red") ;
-  text("Instruction",20,35);
+  fill("black") ;
+  text("Instruction",20,75);
   textSize(15);
-  text("0=sleeping",20,55);
-  text("1=brushing",20,75);
-  text("2=bathing",20,90);
-  text("3=exercise",20,105);
-  text("4=eating",20,130);
-  text("5=drinking",20,155);
-  text("6=movinging",20,175);
+  text("0=sleeping",20,90);
+  text("1=brushing",20,105);
+  text("2=bathing",20,130);
+  text("3=exercise",20,155);
+  text("4=eating",20,175);
+  text("5=drinking",20,195);
+  text("6=movinging",20,215);
  text.depth=space.depth+1
 
 }
